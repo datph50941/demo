@@ -21,7 +21,7 @@ b:<div
             <tr class="">
                 <td scope="row">{{$user->id}}</td>
                 <td>{{$user->name}}</td>
-                <td>{{user}}</td>
+                <td>{{user}}</td>ksssssss
             </tr>
             @endforeach
            
